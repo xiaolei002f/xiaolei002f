@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**xiaolei002f/xiaolei002f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<summary>About Open Source </summary>
 
-Here are some ideas to get you started:
+🚀 Some of my main projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Simps](https://github.com/simple-swoole/simps) - A simple, lightweight and high-performance PHP coroutine framework.
+
+⚙️ I also participated in maintaining some open source projects:
+
+- [docsify](https://github.com/docsifyjs/docsify) - A magical documentation site generator.
+- [Hyperf](https://github.com/hyperf/hyperf) - A coroutine framework that focuses on hyperspeed and flexibility. Building microservice or middleware with ease.
+
+👀 [Get More ...](https://github.com/sy-records)
+
+</details>
